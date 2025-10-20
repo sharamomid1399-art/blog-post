@@ -6,7 +6,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // return view('Home');
-    return 'hellow';
+    // return 'hellow';
+    return 'hellow world';
+
 });
 
 
