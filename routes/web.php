@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     // return view('Home');
  
-    return 'shahram';
+    return 'shahram goooool';
 
 });
 
